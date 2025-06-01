@@ -34,9 +34,10 @@ h1 {
     transition: 0.4s;
 }
 .element:hover {
-    margin-bottom: 50px;
-    font-size: 20px;
-    width: 250px;
-    height: 113px;  
+    margin-bottom: 70px;
+    font-size: 25px;
+    padding-top: 30px;
+    width: 293px;
+    height: 93px;  
     transition: 0.4s;
 }
